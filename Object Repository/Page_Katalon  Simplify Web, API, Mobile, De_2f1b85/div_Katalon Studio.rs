@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Katalon Studio</name>
+   <tag></tag>
+   <elementGuidId>db246147-446a-4bff-8072-9368cbbcbbe5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_cos_wrapper_navigation-primary']/nav/ul/li/ul/div/li/ul/li/a/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.title_description_product</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>35aa1a5b-1e27-48b2-b1bc-98b8f8ee0c1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title_description_product</value>
+      <webElementGuid>bfa3ce37-3e87-4f4d-9ac2-e1d78823896d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon Studio</value>
+      <webElementGuid>0548cd8a-74e6-42d8-a811-fbfb2c0ea414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_navigation-primary&quot;)/nav[@class=&quot;navigation-primary&quot;]/ul[@class=&quot;submenu level-1&quot;]/li[@class=&quot;has-submenu menu-item Products&quot;]/ul[@class=&quot;submenu level-2&quot;]/div[@class=&quot;cbg&quot;]/li[@class=&quot;has-submenu menu-item FEATURED PRODUCTS&quot;]/ul[@class=&quot;submenu level-3&quot;]/li[@class=&quot;no-submenu menu-item Katalon Studio&quot;]/a[@class=&quot;menu-link&quot;]/div[@class=&quot;item_product&quot;]/div[@class=&quot;description_product&quot;]/div[@class=&quot;title_description_product&quot;]</value>
+      <webElementGuid>0faacbf5-8f69-4a39-ac16-418e1d251bfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_navigation-primary']/nav/ul/li/ul/div/li/ul/li/a/div/div[2]/div</value>
+      <webElementGuid>74609640-bd9b-4220-9138-454a53878f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FEATURED PRODUCTS'])[1]/following::div[4]</value>
+      <webElementGuid>b11b1de8-5e7e-449b-bd92-615d4eb92c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/following::div[5]</value>
+      <webElementGuid>c2db247b-811d-4258-a134-ca1420731410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go codeless, create &amp; execute tests on all platforms'])[1]/preceding::div[1]</value>
+      <webElementGuid>02f5eda0-832f-4560-a59e-e84a4b74ea7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon TestOps'])[1]/preceding::div[3]</value>
+      <webElementGuid>010ddb09-fbdc-41d4-b4b2-176723e5d448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Katalon Studio']/parent::*</value>
+      <webElementGuid>2d4556dd-72ab-48f7-9ac4-62fa4d7882fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]/div</value>
+      <webElementGuid>a22c483b-2bba-4f97-85d3-98dce26d1f48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Katalon Studio' or . = 'Katalon Studio')]</value>
+      <webElementGuid>f3498d01-89d4-4b80-a52b-bf128a90227b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

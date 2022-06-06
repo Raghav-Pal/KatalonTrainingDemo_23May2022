@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>9ca499a7-3d38-4371-804b-3fb6f4109b74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-homepage-popup']/div/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.trackable.close_homepage_popup > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>76bbf022-d2c1-4c88-8e33-e1eda640f2c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://katalon.com/hubfs/self_assessment_popup_verA_.png</value>
+      <webElementGuid>61fb2490-b063-4ab9-a1c9-d9963ebfbdf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-homepage-popup&quot;)/div[@class=&quot;modal-dialog homepage-popup&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;popup-body&quot;]/a[@class=&quot;trackable close_homepage_popup&quot;]/img[1]</value>
+      <webElementGuid>8ef12087-5a5e-4376-b3c0-d67d82650452</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-homepage-popup']/div/div/div/div/a/img</value>
+      <webElementGuid>ce244783-e72c-4c08-aef5-30f14f0e5938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://katalon.com/hubfs/self_assessment_popup_verA_.png')]</value>
+      <webElementGuid>a1f46adb-56cc-4406-87b4-9bab424738f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/img</value>
+      <webElementGuid>d613cf0c-3a3c-4678-a927-535f877b7f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://katalon.com/hubfs/self_assessment_popup_verA_.png']</value>
+      <webElementGuid>e2629bfd-a0bb-4250-ba86-dbef58073c04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

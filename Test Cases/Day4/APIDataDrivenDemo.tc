@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>APIDataDrivenDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58d0fa52-efbf-4753-8c80-39153c515529</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>5a2011ca-df18-4a8d-845a-4ef5527b437a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/APIData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>5a2011ca-df18-4a8d-845a-4ef5527b437a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>FirstName</value>
+      <variableId>8ffeb19d-3da0-422d-93b7-9c25505c1275</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ffeb19d-3da0-422d-93b7-9c25505c1275</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+</TestCaseEntity>

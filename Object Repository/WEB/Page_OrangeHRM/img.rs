@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>8d56162e-e37d-4721-9e3a-2de3f11f6d21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard-quick-launch-panel-menu_holder']/table/tbody/tr/td/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.quickLaunge > a > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>957cfda7-98a2-4884-886a-57d87de5cbe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/webres_628b7d3619b8f8.84427813/orangehrmLeavePlugin/images/ApplyLeave.png</value>
+      <webElementGuid>673cfca0-90fa-47e8-8acc-c28f149a5092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard-quick-launch-panel-menu_holder&quot;)/table[@class=&quot;quickLaungeContainer&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;quickLaunge&quot;]/a[1]/img[1]</value>
+      <webElementGuid>f3875bf1-4e76-48f1-9fb2-8a4b4cdb2b01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard-quick-launch-panel-menu_holder']/table/tbody/tr/td/div/a/img</value>
+      <webElementGuid>03ae4cb7-ca69-447c-8964-9fd592974c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/a/img</value>
+      <webElementGuid>f1546ee9-a5f2-4c58-a8de-cd66ae824a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/webres_628b7d3619b8f8.84427813/orangehrmLeavePlugin/images/ApplyLeave.png']</value>
+      <webElementGuid>1fc8da15-b034-4dac-b6a7-018246d4dbfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

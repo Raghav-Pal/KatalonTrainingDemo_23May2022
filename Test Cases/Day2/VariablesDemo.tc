@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VariablesDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f182cc35-3d38-4870-bbde-e9fd94a4e49f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b18d7e85-4a5b-4b07-9599-83182a5fefbe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a34fcec-3b4e-4df9-990d-aa014da1c4c7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Walt'</defaultValue>
+      <description></description>
+      <id>b18d7e85-4a5b-4b07-9599-83182a5fefbe</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Disney'</defaultValue>
+      <description></description>
+      <id>4a34fcec-3b4e-4df9-990d-aa014da1c4c7</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+</TestCaseEntity>

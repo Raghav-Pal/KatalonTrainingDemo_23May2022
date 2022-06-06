@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_alternative link_popup_back</name>
+   <tag></tag>
+   <elementGuidId>6f8caaf4-d577-459e-be3e-fc4255649141</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-homepage-popup']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form-homepage-popup > div.popup_back</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f991ebd5-0840-49f1-a6cf-bb2221378cf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup_back</value>
+      <webElementGuid>90ba1ad3-b372-4025-9e70-58db39dc9ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-homepage-popup&quot;)/div[@class=&quot;popup_back&quot;]</value>
+      <webElementGuid>141b0d05-ef16-4e36-be3f-ad33ae5a7b35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-homepage-popup']/div[2]</value>
+      <webElementGuid>5da4fe68-0148-4ea5-99c2-6aec4f3547e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]</value>
+      <webElementGuid>da6755b8-06f1-466e-b7d5-57f3088ed519</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
