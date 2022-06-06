@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>32a4435c-23b6-42e7-bf53-6c77ded636b3</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Day1/Test2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
